@@ -52,9 +52,12 @@ jawab:
 
 -dan masukan rumus pada assign S=v*y
 
--dan outputmya "menghitu jarak rumah pak jul ke kantor"
+-dan outputmya "menghitung jarak rumah pak jul ke kantor"
 
 -jangan lupa masukan & S untuk memanggil hasil
+
+![jarakk](https://user-images.githubusercontent.com/93036509/139475757-c3e5e0ae-13e8-4022-991c-d38e70860607.png)
+
 
 -kemudian run pada pada bentuk segi tiga berwarna hijau
 
